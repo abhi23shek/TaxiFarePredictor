@@ -57,10 +57,7 @@ This project demonstrates how to build a machine learning model to predict taxi 
 - Deploy the model as a web service for real-time fare prediction.
 
 ## Author
-[Your Name]
-
-## License
-This project is licensed under the MIT License.
+Abhishek Kumar
 
 ---
 
